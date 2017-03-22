@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<note>
+  <from>Jsinh</from>
+  <body subject="Hello world" />
+  <body2>
+    <subject>Hello Universe</subject>
+  </body2>
+</note>
