@@ -1,6 +1,6 @@
 # hello.configuration
 
-Evaluating [aspnet/Configuration](https://github.com/aspnet/Configuration)
+Running example [aspnet/Configuration](https://github.com/aspnet/Configuration) of blogpost [ASP.NET 5 Configuration - Microsoft Framework ConfigurationModel](https://blog.jsinh.in/asp-net-5-configuration-microsoft-framework-configurationmodel/). 
 
 ## Usage
 
